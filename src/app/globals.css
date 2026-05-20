@@ -43,7 +43,7 @@
 
 @layer base {
   * {
-    @apply border-border;
+    border-color: rgb(var(--border) / 0.2);
   }
   
   body {
